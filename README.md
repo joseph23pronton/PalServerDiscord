@@ -1,7 +1,8 @@
-# <picture>
+ <picture>
   <source srcset="https://cdn2.steamgriddb.com/icon/9ce60c64ac4510df68537de96631261f.ico">
-</picture>A DISCORD BOT FOR PALWORLD DEDICATED SERVER BUILT USING DISCORD.JS
-# ***NOTE: ONLY RUNS ON WINDOWS SERVER ITSELF AS THE SERVER IM USING IS CURRENTLY RUNNING ON WINDOWS***
+</picture>
+# A DISCORD BOT FOR PALWORLD DEDICATED SERVER BUILT USING DISCORD.JS
+***NOTE: ONLY RUNS ON WINDOWS SERVER ITSELF AS THE SERVER IM USING IS CURRENTLY RUNNING ON WINDOWS***
 
 <picture>
   <source srcset="https://gaming-cdn.com/images/products/8982/616x353/palworld-pc-game-steam-cover.jpg?v=1705942170">
